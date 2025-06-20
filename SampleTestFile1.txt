@@ -1,3 +1,4 @@
 This is Sample File 1
 
 GIT revert commit 1
+Comparison Test 1
